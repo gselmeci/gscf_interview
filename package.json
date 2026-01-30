@@ -1,0 +1,14 @@
+{
+  "name": "cypress_gscf_interview",
+  "version": "1.0.0",
+  "description": "Cypress interview project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.9.0"
+  }
+}
