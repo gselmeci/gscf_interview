@@ -6,7 +6,7 @@ const Tabs = {
 
 const testValue1 = 100;
 const testValue2 = 10;
-const testValue3 = 5;
+const testValue3 = 5; 
 
 context ('GSCF interview', () => {
 
